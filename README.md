@@ -8,6 +8,6 @@
 
 [README.md](https://aa561k.github.io/README.md)
 
-(https://github.com/aa561k/aa561k.github.io)
+[Github Repo](https://github.com/aa561k/aa561k.github.io)
 
-(https://github.dev/aa561k/aa561k.github.io)
+[Github Repo - Dev](https://github.dev/aa561k/aa561k.github.io)
